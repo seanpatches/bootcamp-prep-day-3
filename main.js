@@ -1,1 +1,2 @@
-console.log('hello console!');
+var sum = (3+4)
+console.log('Hello Console!', sum);
